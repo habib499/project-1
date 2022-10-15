@@ -1,0 +1,546 @@
+.body{
+
+}
+section.headingbar {
+    background-color: #0196e3;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height: 760px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-family: Bellota Text;
+}
+h1.headingtextcyber {
+    float: left;
+    margin-top: 30%;
+    font-size: 65px;
+    border-right: 2px solid;
+    padding-right: 30px;
+}
+h3.headingsafetycostomer {
+    padding-top: 32%;
+    font-size: 41px;
+}
+p.iconfb {
+    float: left;
+    
+}
+a.navbar-brand {
+    font-size: 47px;
+    margin-left: 10px;
+    margin-right: 60px;
+    color: #47b5ed !important;
+}
+ul.navbar-nav.mr-auto.mt-2.mt-lg-0 {
+    font-size: 20px;
+    margin-left: 50px;
+}
+.iconmainmenu {
+    margin-right: 28px;
+}
+p.iconfb {
+    padding: 18px 24px;
+    margin: 10px 10px;
+    background-color: #ffffff;
+    border-radius: 49px;
+    color: #0196e3;   
+    box-shadow: 10px 10px 12px #d2dce9;
+}
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background: #f2f3f7 !important;
+}
+
+
+.imagewith2ndpara {
+    
+    border-radius: 67px;
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    background-color: #f2f3f7;
+}
+img.figure {
+    width: 88%;
+    height: 300px;
+    border-radius: 44px;
+    margin: 18px;
+    box-shadow: 8px 8px 20px #d2dce9;
+}
+h4.ourfeatures {
+    text-align: center;
+    font-size: 78px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+p.cybersecurityhead {
+    color: #36187d;
+    font-family: 'Bellota Text', display;
+    
+    font-size: 30px;
+    margin-left: 20px;
+}
+p.loremipsumdolorsit {
+    color: #6c758f;
+    font-family: 'Bellota Text', display;
+    font-size: 18px;
+    margin-left: 20px;
+}
+a.readmore {
+    margin-left: 20px;
+    font-size: 18px;
+}
+.imagewith2ndpara {
+    width: 100%;
+    height: 550px;
+    background-color: #ffffff;
+}
+p.headcyberabout {
+    font-size: 70px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+}
+p.cyberloremsit {
+    color: #6c758f;
+    font-size: 16px;
+    font-family: 'Bellota Text', display;
+}
+button.readmorebutton {
+    padding: 14px 30px;
+    border-radius: 28px;
+    background: #35b8fc;
+    color: white;
+    overflow: hidden;
+    margin-top: 20px;
+    border: none;
+}
+img.securityimages1 {
+    width: 100%;
+    height: 500px;
+    border-radius: 50px;
+}
+img.securityimages1 {
+    border-radius: 61px;
+    height: 500px;
+    width: 100%;
+}
+section.AboutCyberSecurity {
+    padding-top: 13%;
+}
+section.featurephotoandtopics {
+    padding-bottom: 12%;
+}
+p.levelofsecurity {
+    text-align: center;
+    font-family: 'Bellota Text', display;
+    font-size: 39px;
+    color: #36187d;
+}
+.blockedvirus {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    border-radius: 30px;
+    width: 100%;
+    height: 230px;
+    background-color: transparent;
+    border: none;
+    background-color: #ffffff;
+}
+p.nousepointericon {
+    font-size: 46px;
+    color: #007bff;
+    margin-left: 42px;
+    padding-top: 25px;
+}
+
+p.numbergape {
+    color: #36187d;
+    font-size: 40px;
+    font-family: 'Bellota Text', display;
+    margin-left: 30px;
+}
+p.lastonevirus {
+    color: #36187d;
+    font-size: 18px;
+    font-family: 'Bellota Text', display;
+    margin-left: 32px;
+}
+.blockedvirusall {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    border-radius: 30px;
+    width: 100%;
+    height: 230px;
+    background-color: transparent;
+    border: none;
+    background-color: #ffffff;
+}
+.blockedvirusall {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    border-radius: 30px;
+    width: 100%;
+    height: 230px;
+    background-color: #ffffff;
+}
+section.thehigherlevelvirussecurity {
+    padding-top: 13%;
+    padding-bottom: 10%;
+}
+p.levelofsecurity {
+    padding-bottom: 15px;
+}
+img.laptopimage2 {
+    border-radius: 61px;
+    height: 500px;
+    width: 100%;
+}
+.progress-bar {
+    
+    background-color: #2f0b68!important;
+    
+}
+p.featuresecure {
+    font-size: 50px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+    margin-left: 20px;
+    margin-top: 28px;
+}
+p.loremissecureipsum {
+    color: #6c758f;
+    font-family: 'Bellota Text', display;
+    line-height: 1.6;
+    font-size: 23px;
+    margin-left: 20px;
+}
+p.itsabarseccurity {
+    color: #6c758f;
+    font-family: 'Bellota Text', display;
+    line-height: .5;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.progress {
+    margin-left: 20px;
+}
+section.imageswithfeatures {
+    padding-top: 7%;
+}
+.borderboxpayedmethod {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    background-color: #ffffff;
+    border-radius: 30px;
+    width: 100%;
+    height: 500px;
+    font-size: 19px;
+    color: #6c758f;
+    line-height: 1.7;
+    text-align: center;
+    padding-top: 28px;
+}
+.headourpricing {
+    padding-top: 28%;
+    text-align: center;
+    padding-bottom: 6%;
+    font-size: 50px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+}
+p.dollar {
+    font-size: 40px;
+    color: #36187d;
+}
+p.year {
+    overflow: hidden;
+    line-height: 0.8;
+    margin-top: -18px;
+    margin-bottom: 20px;
+    color: #6c758f;
+    font-family: raleway;
+    font-size: 17px;
+}
+button.buynowbutton {
+    border-radius: 30px;
+    padding: 8px 25px;
+    margin-top: 2%;
+    background-color: #47b5ed !important;
+    border-color: #47b5ed !important;
+    color: #ffffff !important;
+    border: none;
+}
+p.fontwosam {
+    float: left;
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    border-radius: 63px;
+    padding: 23px 41px;
+    font-size: 36px;
+    color: #36187d;
+}
+p.date {
+    margin-left: 13%;
+    font-size: 39px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+    font-weight: bold;
+}
+
+p.homesmartsecurity {
+    margin-left: 13%;
+    font-size: 39px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+}
+p.lorembigparaiconsite {
+    margin-left: 13%;
+    font-size: 17px;
+    font-family: 'Bellota Text', display;
+    color: #6c758f;
+    line-height: 1.5;
+
+}
+.textlineheight {
+    line-height: .9;
+    padding-bottom: 24px;
+}
+p.history {
+    padding-top: 10%;
+    padding-bottom: 4%;
+    font-size: 50px;
+    margin-left: 10px;
+    font-family: 'Bellota Text', display;
+    color: #36187d;
+}
+.video{
+background-image: url(background1.jpg);
+}
+.video {
+    width: 100%;
+    height: 500px;
+    border-radius: 5%;
+}
+a.iconbaryoutube {
+    text-align: center;
+    font-size: 50px;
+    color: #0196e3;
+    background: #dae2ec;
+    margin: 26% 48%;
+    border-radius: 62%;
+    padding: 11px 21px;
+    display: inline-block;
+
+}
+p.watchvideo {
+    font-size: 40px;
+    color: #36187d;
+    text-align: center;
+    padding-top: 17%;
+    padding-bottom: 3%;
+}
+img.teamworkmaintain {
+    border-radius: 60%;
+    height: 150px;
+}
+.ownerintroducing {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    margin-top: 22px;
+    padding-top: 60px;
+    border-radius: 40px;
+}
+p.namejames {
+    color: #36187d;
+    font-size: 30px;
+    padding-top: 30px;
+    line-height: .5;
+    font-family: 'Bellota Text', display;
+}
+p.generaldirectorjames {
+    color: #6c758f;
+    font-family: 'Bellota Text', display;
+    font-size: 20px;
+}
+img.arowrighticonthumbel {
+    
+        height: 126px;
+        border-radius: 77px;
+        background: white;
+        width: 133px;
+        float: left;
+        padding: 22px 5px;
+        margin-top: 32px;
+    
+}
+p.arowrighticontext {
+    float: left;
+    font-size: 27px;
+    color: #36187d;
+    font-family: 'Bellota Text', display;
+    padding-top: 39px;
+    padding-left: 35px;
+    padding-right: 120px;
+    line-height: 1.8;
+}
+
+
+
+.textandlogoicon {
+    width: 100%;
+    height: 248px;
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    text-align: center;
+    margin-top: 29px;
+    overflow: hidden;
+    padding-top: 50px;
+    border-radius: 33px;
+    padding-left: 91px;
+}
+p.iconarrowright {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    overflow: hidden;
+    padding: 34px 54px 45px 38px;
+    border-radius: 206px;
+    color: #0196e3;
+    font-size: 28px;
+    width: 100px;
+    height: 100px;
+    margin-top: 32px;
+}
+.textandlogoicon {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    height: 263px;
+    width: 100%;
+    padding-top: 4%;
+    border-radius: 50px;
+    padding-left: 90px;
+}
+section.blogtext1 {
+    padding-top: 15%;
+}
+section.blogtext2 {
+    padding-top: 5%;
+}
+section.blogtext3 {
+    padding-top: 5%;
+}
+p.ourawards {
+    margin-left: 28px;
+    padding-bottom: 20px;
+    font-size: 50px;
+    color: #36187d;
+    font-family: 'Bellota Text', display;
+}
+.nameofcompanyhigher {
+    box-shadow: 0.6em 0.6em 1.2em #d2dce9, -0.5em -0.5em 1em #ffffff;
+    padding-top: 5%;
+    border-radius: 40px;
+    padding-left: 43px;
+    height: 400px;
+}
+section.blogtextcompany {
+    padding-top: 14%;
+}
+p.nameofcompany {
+    color: #36187d;
+    font-family: 'Bellota Text', display;
+    font-size: 30px;
+}
+p.breaktaguses {
+    color: #6c758f;
+    font-family: 'Bellota Text', display;
+    font-size: 19px;
+    line-height: 1.5;
+}
+p.notusessouth {
+    color: #6c758f;
+    font-family: 'Bellota Text', display;
+    font-size: 19px;
+    line-height: .5;
+    padding-top: 13px;
+}
+a.numbercode {
+    font-size: 25px;
+    font-family: 'Bellota Text', display;
+    color: #0196e3;
+    padding-bottom: 4%;
+}
+input.name {
+    box-shadow: inset 1px 1px 2px 0 #d2dce9;
+    width: 100%;
+    padding: 10px 34px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    font-size: 22px;
+    background-color: #edeff3;
+    color: #000000;
+    overflow: hidden;
+    outline: none;
+}
+input.emal {
+    width: 49%;
+    padding: 10px 34px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    font-size: 22px;
+    background-color: #edeff3;
+    color: #000000;
+    overflow: hidden;
+    outline: none;
+    box-shadow: inset 1px 1px 2px 0 #d2dce9;
+    float: left;
+    margin-right: 10px;
+}
+input.number {
+    width: 49%;
+    padding: 10px 34px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    font-size: 22px;
+    background-color: #edeff3;
+    color: #000000;
+    overflow: hidden;
+    outline: none;
+    box-shadow: inset 1px 1px 2px 0 #d2dce9;
+}
+input.massage {
+    box-shadow: inset 1px 1px 2px 0 #d2dce9;
+    background-color: #edeff3;
+    border-radius: 50px;
+    color: #000000;
+    overflow: hidden;
+    padding-left: 15px;
+    padding: 90px 30px;
+    width: 100%;
+}
+button.sendmassage {
+    margin-top: 20px;
+    padding: 14px 37px;
+    background-color: #35b8fc !important;
+    border-color: #35b8fc !important;
+    color: #ffffff !important;
+    border-radius: 47px;
+    font-size: 20px;
+    font-family: 'Bellota Text', display;
+    border: none;
+}
+p.feedback {
+    color: #36187d;
+    font-family: 'Bellota Text', display;
+    font-size: 50px;
+    padding-top: 20%;
+}
+section.fromlastparadone {
+    padding-bottom: 10%;
+}
+
+
+
